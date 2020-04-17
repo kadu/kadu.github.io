@@ -35,7 +35,9 @@ rato = 1  # testando com rato igual a 1 e esperando como resultado 12
 print (rato + (rato*3))
 ```
 
+
     4
+    
     
 
 
@@ -44,7 +46,9 @@ rato = 2  # testando com rato igual a 2 e esperando como resultado 12
 print (rato + (rato*3))
 ```
 
+
     8
+    
     
 
 
@@ -53,7 +57,9 @@ rato = 3  # testando com rato igual a 3 e esperando como resultado 12
 print (rato + (rato*3))
 ```
 
+
     12
+    
     
 
 Achamos o valor - Rato = 3, vamos fazer a subistituição da ultima linha, lembrando da pegadinha que observando a imagem, percebemos que temos um tigre+gato (olha o rabo levantado do gato) e depois um (gato+tigre) observando o rabo pra baixo no gato
